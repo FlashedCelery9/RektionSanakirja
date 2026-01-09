@@ -17,6 +17,7 @@
 .header{
     justify-items: center;
     justify-self: center;
+    align-items: center;
 }
 h1{
     padding-top: 5%;
