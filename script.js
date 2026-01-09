@@ -1,3 +1,4 @@
+// File: script.js
 const dictionary = {
     run: "images/bla.png",
     eat: "images/eat.png",

@@ -58,6 +58,12 @@ h1{
     background-color: rgb(223, 209, 209);
     position: center;
     margin-top: 29px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    margin-bottom: 50px;
 }
 a, img, span, h1 {
     display: block; /*Стрічкові обєкти перетворюю в блочні*/
@@ -70,14 +76,6 @@ a, img, span, h1 {
 }
 .flex {
     display: flex; /*Таким чином можна функції що повторюються не писати до кожного елемента а просто додавати класи в index.html*/
-}
-.res2 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    padding: 20px;
-    margin-bottom: 50px;
 }
 
 .result img {
